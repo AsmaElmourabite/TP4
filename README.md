@@ -3,7 +3,7 @@
 ## 🎯 Objectif du projet
 Ce projet a pour objectif de **configurer et utiliser Hibernate** avec **MySQL** pour la persistance des entités en Java.  
 Il permet de manipuler des entités comme `Salle` et `Machine`, illustrant les concepts de **JPA**, **mapping objet-relationnel**, et **requêtes HQL**.
-
+https://github.com/AsmaElmourabite/TP4/commit/55683a570ba2312ebc0184b1fbc3274f164dce95#diff-1cb58cab96f8acae0a70327bdb87bb73946b44c9112718633069e9e3d2c17fca
 ---
 
 ## 🛠️ Technologies utilisées
@@ -21,4 +21,4 @@ Il permet de manipuler des entités comme `Salle` et `Machine`, illustrant les c
 Créer une base de données MySQL :
 ```sql
 CREATE DATABASE base;
-https://github.com/AsmaElmourabite/TP4/commit/55683a570ba2312ebc0184b1fbc3274f164dce95#diff-1cb58cab96f8acae0a70327bdb87bb73946b44c9112718633069e9e3d2c17fca
+
