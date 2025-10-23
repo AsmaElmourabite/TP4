@@ -1,4 +1,5 @@
 # 🧩 TP4 - Hibernate avec MySQL
+![Capture]()
 
 ## 🎯 Objectif du projet
 Ce projet a pour objectif de **configurer et utiliser Hibernate** avec **MySQL** pour la persistance des entités en Java.  
