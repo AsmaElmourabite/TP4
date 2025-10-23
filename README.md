@@ -1,5 +1,5 @@
 # 🧩 TP4 - Hibernate avec MySQL
-![Capture]()
+![Capture](https://github.com/AsmaElmourabite/TP4/blob/main/Capture%20d%E2%80%99%C3%A9cran%202025-10-21%20225611.jpg)
 
 ## 🎯 Objectif du projet
 Ce projet a pour objectif de **configurer et utiliser Hibernate** avec **MySQL** pour la persistance des entités en Java.  
